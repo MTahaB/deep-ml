@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:23:49.749Z",
+  "generated_at": "2026-10-07T21:33:13.438Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-10-07T21:23:49.048Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-10-07T21:33:12.787Z",
+      "last_pushed_at": "2026-10-07T21:33:12.787Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
